@@ -1,0 +1,5 @@
+# Created at 2023-11-29T12:46:15.307
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Proyectos\App_Telostel\TELOSTEL-B\telostel-backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
